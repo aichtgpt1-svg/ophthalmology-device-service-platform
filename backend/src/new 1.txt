@@ -1,0 +1,43 @@
+cd h:\Dev\ophthalmology-device-service-platform  
+
+\frontend> npm start 
+\backend> npm run dev  
+\mobile> npx react-native start
+
+
+http://localhost:3000/devices/f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
+
+               id                  | serial_number
+--------------------------------------+---------------
+ f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b | s13245677
+ 
+ 
+id          : f1f6e209-08fa-40d8-8827-ffd7c77df72f
+device_id   : f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
+metric      : temp
+value       : 42.5
+unit        : C
+recorded_at : 10/1/2025 7:53:46 PM
+
+
+
+
+
+
+id          : bede1567-5686-42e0-b37c-3b6b00fd0009
+device_id   : f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
+metric      : temp
+value       : 42.5
+unit        : C
+recorded_at : 10/1/2025 8:07:48 PM
+
+id          : f1f6e209-08fa-40d8-8827-ffd7c77df72f
+device_id   : f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
+metric      : temp
+value       : 42.5
+unit        : C
+recorded_at : 10/1/2025 7:53:46 PM
+
+
+start http://localhost:3000/devices/f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
+http://localhost:3000/devices/f41d7fa8-8b6f-418a-8a80-1232f4e5fa5b
